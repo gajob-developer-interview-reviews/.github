@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/gajob-for-Recruitment-reviews">
-    <img src="https://user-images.githubusercontent.com/80824750/198868678-89397e81-4605-43a4-a405-3e6dad8651e7.png" alt="Logo" width="80" height="80">
+    <img src="https://avatars.githubusercontent.com/u/117059035?s=400&u=b9441b2de1f395bc73084bdd80f6665bfb659190&v=4" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">GAJOB - 개발자를 위한 채용 후기 플랫폼</h3>
