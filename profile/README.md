@@ -69,12 +69,11 @@
 	<tr><td>Template Engine</td><td>Thymeleaf</td></tr>
 	<tr><td>Asynchronous</td><td>Ajax</td></tr>
 	<tr><td>Open API</td><td>Kakao Map API</td></tr>
-	<tr><th rowspan="7">Back-end</th><td>Language</td><td>Java 11</td></tr>
+	<tr><th rowspan="6">Back-end</th><td>Language</td><td>Java 11</td></tr>
 	<tr><td>Framework</td><td>Spring Boot 2.7.3</td></tr>
 	<tr><td>ORM</td><td>Spring Data JPA, Querydsl</td></tr>
 	<tr><td>Authorization</td><td>Spring Security, OAuth2.0</td></tr>
 	<tr><td>Database</td><td>MySQL</td></tr>
-	<tr><td>Test</td><td>JUnit5</td></tr>
 	<tr><td>Open API</td><td>Google Login API</td></tr>
 	<tr><th rowspan="2">Management</th><td>Communication</td><td>Notion</td></tr>
 	<tr><td>Version Control</td><td>Github</td></tr>
