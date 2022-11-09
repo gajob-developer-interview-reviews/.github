@@ -46,7 +46,7 @@
 - 구글 계정으로 로그인 및 회원가입
 - 내가 쓴 후기 관리
 
-![image](https://user-images.githubusercontent.com/80824750/199168901-ea70449b-3942-4469-8c73-ad79ad9d2603.png)
+![image](https://user-images.githubusercontent.com/80824750/200771808-3e445c19-b053-427e-8ae5-d8b1631e47cc.png)
 
 
 <!-- - **구글 계정으로 시작하기** </br></br>
